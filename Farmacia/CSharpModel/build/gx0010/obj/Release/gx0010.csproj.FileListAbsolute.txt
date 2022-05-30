@@ -1,0 +1,3 @@
+C:\Models\Farmacia\CSharpModel\web\bin\gx0010.dll
+C:\Models\Farmacia\CSharpModel\build\gx0010\obj\Release\gx0010.csprojResolveAssemblyReference.cache
+C:\Models\Farmacia\CSharpModel\build\gx0010\obj\Release\gx0010.dll

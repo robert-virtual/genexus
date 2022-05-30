@@ -1,0 +1,3 @@
+C:\Models\PrimerKB\CSharpModel\web\bin\alumnos.dll
+C:\Models\PrimerKB\CSharpModel\build\alumnos\obj\Release\alumnos.csprojResolveAssemblyReference.cache
+C:\Models\PrimerKB\CSharpModel\build\alumnos\obj\Release\alumnos.dll

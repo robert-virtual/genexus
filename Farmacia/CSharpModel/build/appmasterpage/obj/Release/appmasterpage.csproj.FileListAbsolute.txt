@@ -1,0 +1,3 @@
+C:\Models\Farmacia\CSharpModel\web\bin\appmasterpage.dll
+C:\Models\Farmacia\CSharpModel\build\appmasterpage\obj\Release\appmasterpage.csprojResolveAssemblyReference.cache
+C:\Models\Farmacia\CSharpModel\build\appmasterpage\obj\Release\appmasterpage.dll

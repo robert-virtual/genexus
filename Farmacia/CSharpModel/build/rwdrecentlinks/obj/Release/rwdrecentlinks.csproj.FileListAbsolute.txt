@@ -1,0 +1,3 @@
+C:\Models\Farmacia\CSharpModel\web\bin\rwdrecentlinks.dll
+C:\Models\Farmacia\CSharpModel\build\rwdrecentlinks\obj\Release\rwdrecentlinks.csprojResolveAssemblyReference.cache
+C:\Models\Farmacia\CSharpModel\build\rwdrecentlinks\obj\Release\rwdrecentlinks.dll

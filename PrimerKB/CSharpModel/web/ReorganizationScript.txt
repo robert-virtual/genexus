@@ -1,0 +1,2 @@
+CREATE TABLE [Alumnos] ([N_Cuenta] nvarchar(40) NOT NULL , [Nombres] nvarchar(40) NOT NULL , [Apellidos] nvarchar(40) NOT NULL , [Sexo] nvarchar(40) NOT NULL , [Edad] smallint NOT NULL , PRIMARY KEY([N_Cuenta]))
+

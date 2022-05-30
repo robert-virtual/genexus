@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_PrimerKB</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>(LocalDB)\MSSQLLocalDB</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Models\PrimerKB</Directory>
+	<DataFile>GX_KB_PrimerKB.mdf</DataFile>
+	<LogFile>GX_KB_PrimerKB_log.ldf</LogFile>
+	<HostName>DESKTOP-LD0FQNC</HostName>
+</ConnectionInformation>

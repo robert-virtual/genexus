@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="prgs.xsl"?>
+<Objects>
+   <Charset>UTF-8</Charset>
+   <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus17Trial/</Path>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>Productos</ObjName>
+      <ObjDesc>Productos</ObjDesc>
+      <ObjLink>productos.aspx</ObjLink>
+   </Object>
+   <Object>
+      <ObjCls>0</ObjCls>
+      <ObjName>TiposProducto</ObjName>
+      <ObjDesc>Tipos Producto</ObjDesc>
+      <ObjLink>tiposproducto.aspx</ObjLink>
+   </Object>
+</Objects>

@@ -1,0 +1,3 @@
+C:\Models\Farmacia\CSharpModel\web\bin\tiposproducto.dll
+C:\Models\Farmacia\CSharpModel\build\tiposproducto\obj\Release\tiposproducto.csprojResolveAssemblyReference.cache
+C:\Models\Farmacia\CSharpModel\build\tiposproducto\obj\Release\tiposproducto.dll

@@ -1,0 +1,29 @@
+
+<Object>
+<ReorgCls>c</ReorgCls>
+<Mod>1</Mod>
+<OldMod>2</OldMod>
+<Table>
+<TableId>2</TableId>
+<TableName>TiposProducto</TableName>
+<Description>Tipos Producto</Description></Table>
+<Table>
+<TableId>2</TableId>
+<TableName>TiposProducto</TableName>
+<Description>Tipos Producto</Description></Table>
+<ReorgAction>*</ReorgAction>
+<ObjNavig>rober\MDL002\GEN15\TiposProductoConversion.xml</ObjNavig></Object>
+<Object>
+<ReorgCls>c</ReorgCls>
+<Mod>1</Mod>
+<OldMod>2</OldMod>
+<Table>
+<TableId>1</TableId>
+<TableName>Productos</TableName>
+<Description>Productos</Description></Table>
+<Table>
+<TableId>1</TableId>
+<TableName>Productos</TableName>
+<Description>Productos</Description></Table>
+<ReorgAction>*</ReorgAction>
+<ObjNavig>rober\MDL002\GEN15\ProductosConversion.xml</ObjNavig></Object>

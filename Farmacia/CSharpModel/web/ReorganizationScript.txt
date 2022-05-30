@@ -1,0 +1,7 @@
+CREATE TABLE [TiposProducto] ([tipoid] smallint NOT NULL IDENTITY(1,1), [tipo] nvarchar(40) NOT NULL , PRIMARY KEY([tipoid]))
+
+CREATE TABLE [Productos] ([productoid] smallint NOT NULL IDENTITY(1,1), [Nombre] nvarchar(40) NOT NULL , [Precio] smallmoney NOT NULL , [Stock] smallint NOT NULL , [tipoid] smallint NOT NULL , PRIMARY KEY([productoid]))
+CREATE NONCLUSTERED INDEX [IPRODUCTOS1] ON [Productos] ([tipoid] )
+
+ALTER TABLE [Productos] ADD CONSTRAINT [IPRODUCTOS1] FOREIGN KEY ([tipoid]) REFERENCES [TiposProducto] ([tipoid])
+

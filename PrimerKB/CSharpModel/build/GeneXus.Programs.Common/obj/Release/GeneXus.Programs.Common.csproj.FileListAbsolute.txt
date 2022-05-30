@@ -1,0 +1,3 @@
+C:\Models\PrimerKB\CSharpModel\web\bin\GeneXus.Programs.Common.dll
+C:\Models\PrimerKB\CSharpModel\build\GeneXus.Programs.Common\obj\Release\GeneXus.Programs.Common.csprojResolveAssemblyReference.cache
+C:\Models\PrimerKB\CSharpModel\build\GeneXus.Programs.Common\obj\Release\GeneXus.Programs.Common.dll
